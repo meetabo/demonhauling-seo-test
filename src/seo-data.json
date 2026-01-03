@@ -4,7 +4,7 @@
     "name": "Main website",
     "domain": "demonhauling.netlify.app"
   },
-  "generated_at": "2026-01-02T23:35:59.741094",
+  "generated_at": "2026-01-03T05:25:34.294662",
   "pages": {
     "/seo": {
       "title": "SEO Analysis - Demo N Hauling Guys",
@@ -18,11 +18,11 @@
       "robots": "index, follow"
     },
     "/": {
-      "title": "Demo N Hauling Guys - #5 Demolition Los Angeles",
+      "title": "Demo N Hauling Guys - #3 Demolition Los Angeles",
       "meta_description": "Professional demolition and junk removal in Los Angeles. Licensed, insured. Call (818) 220-7356",
-      "h1": null,
+      "h1": "Demo N Hauling Guys - #3 Demolition Los Angeles",
       "canonical_url": null,
-      "og_title": "Demo N Hauling Guys - #5 Demolition Los Angeles",
+      "og_title": "Demo N Hauling Guys - #3 Demolition Los Angeles",
       "og_description": "Professional demolition and junk removal in Los Angeles. Licensed, insured. Call (818) 220-7356",
       "og_image": null,
       "schema_markup": null,
