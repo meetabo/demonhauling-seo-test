@@ -1,0 +1,18 @@
+# robots.txt for Demo N Hauling Guys
+
+User-agent: *
+Allow: /
+Disallow: /seo
+
+# Sitemap location
+Sitemap: https://demonhaulingguys.com/sitemap.xml
+
+# Crawl-delay for polite crawlers
+Crawl-delay: 1
+
+# Block specific bots if needed (uncomment as needed)
+# User-agent: AhrefsBot
+# Disallow: /
+
+# User-agent: SemrushBot
+# Disallow: /
