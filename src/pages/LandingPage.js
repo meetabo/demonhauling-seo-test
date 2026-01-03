@@ -17,7 +17,7 @@ import { Link } from "react-router-dom";
 import "./LandingPage.css";
 
 // Import SEO data - this file is updated by the CRM
-import seoDataFile from "../seo-data.json";
+import seoDataFile from "../../public/seo-data.json";
 
 const LandingPage = () => {
   const [isVisible, setIsVisible] = useState(false);
